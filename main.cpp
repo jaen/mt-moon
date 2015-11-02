@@ -9,6 +9,7 @@ int main()
     Game game = read_game("plot.txt");
 
     cout << "Hello Kanto!" << endl;
+    //ziemniak
 
     print_game(game);
 
