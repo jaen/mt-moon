@@ -1,0 +1,57 @@
+!0
+Budzisz się w domu. Jesteś Ashem i nie masz ojca. Co teras?
+
+===
+
+- Jest ci przykro i zamykasz się w sobie.
+=> 1
+- Oglądasz telewziję bo możesz.
+=> 2
+- Zaglądasz do komputera.
+=> 3
+- Idziesz złapać je wszystkie.
+=> 4
+
+~~~ MORZE MOŻLIWOŚĆI
+
+!1
+Zwijasz się w kulkę i płaczesz. Obficie. Ostatecznie umierasz z odwodnienia organizmu.
+KONIEC.
+[*]
+
+~~~
+
+!2
+Lecą Pokemony. Lubisz Pokemony. Co teras?
+
+===
+
+- NIE WIEM.
+=> 0
+
+~~~
+
+!3
+Mama kupiła ci bardzo ładny, lśniący potion na urodziny, ale nie masz co z nim zrobić, gdyż nie masz własnych pokemonów.
+
+===
+
+- Doktor Oak ma, idziesz do niego.
+=> 5
+
+~~~
+
+!4
+U-u-unh, nie masz własnego pokemona żeby się bić. Ale doktor Oak ma!
+
+===
+
+- NO DOBRA JUŻ IDĘ DO NIEGO, OKEJ?
+=> 5
+
+~~~
+
+!5
+Doktor Oak mówi, że niestety wszystkie pokemony sprzedał. Nie zostało dla Ciebie już nic. Płaczesz. Umierasz z odwodnienia.
+KONIEC.
+[*]
